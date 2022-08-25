@@ -29,6 +29,6 @@ So that I can organize and plan my business
 </code></pre></li>
 </ol>
   <h2 id="Usage">Usage</h2>
-  <p>This application can be used to create an employee database using CRUD operations. View walk through video here - <p>
+  <p>This application can be used to create an employee database using CRUD operations. View walk through video here - https://youtu.be/AvbisXLP0Wk <p>
   
   
